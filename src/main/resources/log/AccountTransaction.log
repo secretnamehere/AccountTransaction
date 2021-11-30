@@ -1,0 +1,284 @@
+2021-11-29 21:42:34 INFO  Transactor:23 - Transaction is done! From:57323 To:57323
+2021-11-29 21:42:34 WARN  Transactor:11 - Self-transaction append From:857861 To:857861
+2021-11-29 21:42:34 INFO  Transactor:23 - Transaction is done! From:857861 To:857861
+2021-11-29 21:42:34 INFO  Transactor:23 - Transaction is done! From:727832 To:727832
+2021-11-29 21:42:35 INFO  Transactor:23 - Transaction is done! From:921840 To:921840
+2021-11-29 21:42:35 INFO  Transactor:23 - Transaction is done! From:921840 To:921840
+2021-11-29 21:42:35 INFO  Transactor:23 - Transaction is done! From:367253 To:367253
+2021-11-29 21:42:36 INFO  Transactor:23 - Transaction is done! From:57323 To:57323
+2021-11-29 21:42:36 INFO  Transactor:23 - Transaction is done! From:367253 To:367253
+2021-11-29 21:42:37 INFO  Transactor:23 - Transaction is done! From:857861 To:857861
+2021-11-29 21:42:37 INFO  Transactor:23 - Transaction is done! From:857861 To:857861
+2021-11-29 21:42:37 INFO  Transactor:23 - Transaction is done! From:573552 To:573552
+2021-11-29 21:42:37 INFO  Transactor:23 - Transaction is done! From:97047 To:97047
+2021-11-29 21:42:38 INFO  Transactor:23 - Transaction is done! From:562105 To:562105
+2021-11-29 21:42:39 INFO  Transactor:23 - Transaction is done! From:626245 To:626245
+2021-11-29 21:42:39 INFO  Transactor:23 - Transaction is done! From:97047 To:97047
+2021-11-29 21:42:39 INFO  Transactor:23 - Transaction is done! From:573552 To:573552
+2021-11-29 21:42:40 INFO  Transactor:23 - Transaction is done! From:155242 To:155242
+2021-11-29 21:42:41 INFO  Transactor:23 - Transaction is done! From:562105 To:562105
+2021-11-29 21:42:41 INFO  Transactor:23 - Transaction is done! From:921840 To:921840
+2021-11-29 21:42:41 INFO  Transactor:23 - Transaction is done! From:562105 To:562105
+2021-11-29 21:42:41 INFO  Transactor:23 - Transaction is done! From:929221 To:929221
+2021-11-29 21:42:42 INFO  Transactor:23 - Transaction is done! From:626245 To:626245
+2021-11-29 21:42:42 INFO  Transactor:23 - Transaction is done! From:921840 To:921840
+2021-11-29 21:42:43 INFO  Transactor:23 - Transaction is done! From:857861 To:857861
+2021-11-29 21:42:43 INFO  Transactor:23 - Transaction is done! From:921840 To:921840
+2021-11-29 21:42:43 INFO  Transactor:23 - Transaction is done! From:921840 To:921840
+2021-11-29 21:42:44 WARN  Transactor:11 - Self-transaction append From:511007 To:511007
+2021-11-29 21:42:44 INFO  Transactor:23 - Transaction is done! From:728251 To:728251
+2021-11-29 21:42:44 INFO  Transactor:23 - Transaction is done! From:511007 To:511007
+2021-11-29 21:42:46 INFO  Main:45 - 30transactions have been done!
+2021-11-29 21:45:00 INFO  - Transaction is done! From:442334 To:304697
+2021-11-29 21:45:00 INFO  - Transaction is done! From:568446 To:68888
+2021-11-29 21:45:00 INFO  - Transaction is done! From:349440 To:304697
+2021-11-29 21:45:00 INFO  - Transaction is done! From:349440 To:133647
+2021-11-29 21:45:02 INFO  - Transaction is done! From:304697 To:133647
+2021-11-29 21:45:02 INFO  - Transaction is done! From:68888 To:442334
+2021-11-29 21:45:02 INFO  - Transaction is done! From:304697 To:349440
+2021-11-29 21:45:02 WARN  - Self-transaction append From:401767 To:401767
+2021-11-29 21:45:03 INFO  - Transaction is done! From:596502 To:460819
+2021-11-29 21:45:03 INFO  - Transaction is done! From:442334 To:460819
+2021-11-29 21:45:03 INFO  - Transaction is done! From:442334 To:867967
+2021-11-29 21:45:04 INFO  - Transaction is done! From:460819 To:442334
+2021-11-29 21:45:04 INFO  - Transaction is done! From:596502 To:651185
+2021-11-29 21:45:04 INFO  - Transaction is done! From:994584 To:673359
+2021-11-29 21:45:05 INFO  - Transaction is done! From:349440 To:867967
+2021-11-29 21:45:05 INFO  - Transaction is done! From:442334 To:133647
+2021-11-29 21:45:05 INFO  - Transaction is done! From:442334 To:651185
+2021-11-29 21:45:06 INFO  - Transaction is done! From:560637 To:442334
+2021-11-29 21:45:06 INFO  - Transaction is done! From:596502 To:460819
+2021-11-29 21:45:07 INFO  - Transaction is done! From:68888 To:919370
+2021-11-29 21:45:07 INFO  - Transaction is done! From:68888 To:460819
+2021-11-29 21:45:07 INFO  - Transaction is done! From:133647 To:349440
+2021-11-29 21:45:08 INFO  - Transaction is done! From:349440 To:560637
+2021-11-29 21:45:09 INFO  - Transaction is done! From:651185 To:133647
+2021-11-29 21:45:09 INFO  - Transaction is done! From:867967 To:994584
+2021-11-29 21:45:09 INFO  - Transaction is done! From:651185 To:994584
+2021-11-29 21:45:10 INFO  - Transaction is done! From:867967 To:133647
+2021-11-29 21:45:10 INFO  - Transaction is done! From:560637 To:596502
+2021-11-29 21:45:10 INFO  - Transaction is done! From:560637 To:568446
+2021-11-29 21:45:11 INFO  - Transaction is done! From:349440 To:568446
+2021-11-29 21:45:12 INFO  - 30 transactions have been done!
+2021-11-29 21:46:56 INFO  - Transaction is done! From:326004 To:637033 Amount: 3755
+2021-11-29 21:46:56 INFO  - Transaction is done! From:351707 To:2999 Amount: 1846
+2021-11-29 21:46:56 INFO  - Transaction is done! From:695952 To:326004 Amount: 1100
+2021-11-29 21:46:56 WARN  - Self-transaction append From:740285 To:740285 Amount: 1728
+2021-11-29 21:46:57 INFO  - Transaction is done! From:351707 To:125947 Amount: 1167
+2021-11-29 21:46:57 INFO  - Transaction is done! From:7366 To:2999 Amount: 271
+2021-11-29 21:46:57 INFO  - Transaction is done! From:430600 To:426948 Amount: 2921
+2021-11-29 21:46:58 INFO  - Transaction is done! From:125947 To:800159 Amount: 3987
+2021-11-29 21:46:58 INFO  - Transaction is done! From:430600 To:740285 Amount: 1320
+2021-11-29 21:46:58 INFO  - Transaction is done! From:920506 To:800159 Amount: 3058
+2021-11-29 21:46:59 INFO  - Transaction is done! From:326004 To:715305 Amount: 2585
+2021-11-29 21:46:59 INFO  - Transaction is done! From:659887 To:351707 Amount: 4343
+2021-11-29 21:46:59 INFO  - Transaction is done! From:351707 To:7366 Amount: 3584
+2021-11-29 21:47:00 INFO  - Transaction is done! From:800159 To:2999 Amount: 478
+2021-11-29 21:47:00 INFO  - Transaction is done! From:7366 To:125947 Amount: 182
+2021-11-29 21:47:00 INFO  - Transaction is done! From:326004 To:740285 Amount: 4377
+2021-11-29 21:47:01 INFO  - Transaction is done! From:430600 To:351707 Amount: 42
+2021-11-29 21:47:01 INFO  - Transaction is done! From:740285 To:659887 Amount: 3662
+2021-11-29 21:47:01 INFO  - Transaction is done! From:637033 To:426948 Amount: 3135
+2021-11-29 21:47:02 INFO  - Transaction is done! From:715305 To:572745 Amount: 4057
+2021-11-29 21:47:02 INFO  - Transaction is done! From:351707 To:2999 Amount: 3034
+2021-11-29 21:47:02 INFO  - Transaction is done! From:426948 To:326004 Amount: 2025
+2021-11-29 21:47:03 INFO  - Transaction is done! From:430600 To:2999 Amount: 4315
+2021-11-29 21:47:03 INFO  - Transaction is done! From:740285 To:715305 Amount: 2648
+2021-11-29 21:47:03 INFO  - Transaction is done! From:572745 To:426948 Amount: 2862
+2021-11-29 21:47:04 INFO  - Transaction is done! From:572745 To:637033 Amount: 2434
+2021-11-29 21:47:04 INFO  - Transaction is done! From:920506 To:695952 Amount: 240
+2021-11-29 21:47:05 WARN  - Not enough money on 430600From:430600 To:715305 Amount: 3333
+2021-11-29 21:47:05 WARN  - Not enough money on 326004From:326004 To:7366 Amount: 4239
+2021-11-29 21:47:05 INFO  - Transaction is done! From:572745 To:920506 Amount: 4328
+2021-11-29 21:47:06 INFO  - 30 transactions have been done!
+2021-11-29 21:49:18 WARN  - Self-transaction append From:339126 To:339126 Amount: 2743
+2021-11-29 21:49:18 INFO  - Transaction is done! From:276622 To:787686 Amount: 3752
+2021-11-29 21:49:18 WARN  - Self-transaction append From:690485 To:690485 Amount: 642
+2021-11-29 21:49:18 INFO  - Transaction is done! From:370494 To:276622 Amount: 4413
+2021-11-29 21:49:19 INFO  - Transaction is done! From:53372 To:42887 Amount: 3851
+2021-11-29 21:49:19 WARN  - Self-transaction append From:782637 To:782637 Amount: 2210
+2021-11-29 21:49:20 INFO  - Transaction is done! From:370494 To:657711 Amount: 1329
+2021-11-29 21:49:20 WARN  - Self-transaction append From:421121 To:421121 Amount: 1261
+2021-11-29 21:49:21 INFO  - Transaction is done! From:796326 To:474619 Amount: 2100
+2021-11-29 21:49:21 INFO  - Transaction is done! From:657711 To:616101 Amount: 1578
+2021-11-29 21:49:21 INFO  - Transaction is done! From:657711 To:110446 Amount: 235
+2021-11-29 21:49:21 INFO  - Transaction is done! From:616101 To:339126 Amount: 1321
+2021-11-29 21:49:22 INFO  - Transaction is done! From:421121 To:474619 Amount: 1196
+2021-11-29 21:49:22 INFO  - Transaction is done! From:421121 To:276622 Amount: 4636
+2021-11-29 21:49:22 INFO  - Transaction is done! From:787686 To:339126 Amount: 3605
+2021-11-29 21:49:23 INFO  - Transaction is done! From:370494 To:276622 Amount: 4057
+2021-11-29 21:49:23 WARN  - Self-transaction append From:796326 To:796326 Amount: 4144
+2021-11-29 21:49:23 INFO  - Transaction is done! From:787686 To:82692 Amount: 2074
+2021-11-29 21:49:23 INFO  - Transaction is done! From:782637 To:690485 Amount: 4602
+2021-11-29 21:49:24 INFO  - Transaction is done! From:82692 To:42887 Amount: 2537
+2021-11-29 21:49:25 INFO  - Transaction is done! From:782637 To:616101 Amount: 3800
+2021-11-29 21:49:25 INFO  - Transaction is done! From:787686 To:42887 Amount: 1528
+2021-11-29 21:49:25 INFO  - Transaction is done! From:339126 To:82692 Amount: 2006
+2021-11-29 21:49:26 WARN  - Not enough money on 782637 From:782637 To:110446 Amount: 4288
+2021-11-29 21:49:26 INFO  - Transaction is done! From:796326 To:53372 Amount: 1899
+2021-11-29 21:49:26 INFO  - Transaction is done! From:276622 To:787686 Amount: 1701
+2021-11-29 21:49:27 INFO  - Transaction is done! From:339126 To:787686 Amount: 3810
+2021-11-29 21:49:27 INFO  - Transaction is done! From:690485 To:110446 Amount: 1891
+2021-11-29 21:49:28 INFO  - Transaction is done! From:657711 To:42887 Amount: 3371
+2021-11-29 21:49:28 INFO  - Transaction is done! From:110446 To:276622 Amount: 1042
+2021-11-29 21:49:29 INFO  - 30 transactions have been done!
+2021-11-29 21:51:55 INFO  - New part of transactions
+2021-11-29 21:51:55 INFO  - Transaction is done! From:84068 To:607939 Amount: 2117
+2021-11-29 21:51:55 INFO  - Transaction is done! From:607939 To:989848 Amount: 2537
+2021-11-29 21:51:55 INFO  - Transaction is done! From:793112 To:607939 Amount: 3391
+2021-11-29 21:51:55 INFO  - Transaction is done! From:214532 To:465920 Amount: 1362
+2021-11-29 21:51:56 INFO  - Transaction is done! From:787984 To:84068 Amount: 3290
+2021-11-29 21:51:56 INFO  - Transaction is done! From:214532 To:465920 Amount: 4935
+2021-11-29 21:51:56 WARN  - Self-transaction append From:793112 To:793112 Amount: 2568
+2021-11-29 21:51:56 INFO  - Transaction is done! From:116060 To:455314 Amount: 4251
+2021-11-29 21:51:57 INFO  - Transaction is done! From:822459 To:793112 Amount: 1711
+2021-11-29 21:51:57 INFO  - Transaction is done! From:455314 To:465920 Amount: 3471
+2021-11-29 21:51:58 INFO  - Transaction is done! From:214532 To:116060 Amount: 2108
+2021-11-29 21:51:58 WARN  - Not enough money on 214532 From:214532 To:84068 Amount: 4459
+2021-11-29 21:51:59 INFO  - Transaction is done! From:822459 To:878048 Amount: 4912
+2021-11-29 21:51:59 INFO  - Transaction is done! From:679066 To:465920 Amount: 3292
+2021-11-29 21:51:59 INFO  - Transaction is done! From:822459 To:841605 Amount: 1291
+2021-11-29 21:51:59 INFO  - Transaction is done! From:878048 To:841605 Amount: 4365
+2021-11-29 21:52:00 INFO  - Transaction is done! From:793112 To:97017 Amount: 4344
+2021-11-29 21:52:01 INFO  - Transaction is done! From:97017 To:793112 Amount: 3387
+2021-11-29 21:52:01 INFO  - Transaction is done! From:455314 To:97017 Amount: 1064
+2021-11-29 21:52:01 INFO  - Transaction is done! From:97017 To:822459 Amount: 4028
+2021-11-29 21:52:02 WARN  - Self-transaction append From:214532 To:214532 Amount: 2364
+2021-11-29 21:52:02 INFO  - Transaction is done! From:679066 To:793112 Amount: 3445
+2021-11-29 21:52:02 INFO  - Transaction is done! From:505497 To:787984 Amount: 3690
+2021-11-29 21:52:03 WARN  - Not enough money on 214532 From:214532 To:84068 Amount: 3236
+2021-11-29 21:52:03 WARN  - Not enough money on 214532 From:214532 To:116060 Amount: 4054
+2021-11-29 21:52:04 INFO  - Transaction is done! From:787984 To:841605 Amount: 3437
+2021-11-29 21:52:04 WARN  - Not enough money on 214532 From:214532 To:679066 Amount: 1653
+2021-11-29 21:52:04 INFO  - Transaction is done! From:878048 To:97017 Amount: 1950
+2021-11-29 21:52:05 INFO  - Transaction is done! From:989848 To:84068 Amount: 566
+2021-11-29 21:52:05 INFO  - Transaction is done! From:116060 To:841605 Amount: 1919
+2021-11-29 21:52:07 INFO  - 30 transactions have been done!
+2021-11-29 21:53:22 INFO  - New part of transactions
+2021-11-29 21:53:22 WARN  - Self-transaction append From:469829 To:469829 Amount: 9667
+2021-11-29 21:53:22 INFO  - Transaction is done! From:469829 To:131087 Amount: 5887
+2021-11-29 21:53:22 WARN  - Self-transaction append From:56260 To:56260 Amount: 5213
+2021-11-29 21:53:22 INFO  - Transaction is done! From:796403 To:56260 Amount: 2508
+2021-11-29 21:53:23 INFO  - Transaction is done! From:469829 To:131087 Amount: 2048
+2021-11-29 21:53:23 WARN  - Self-transaction append From:26194 To:26194 Amount: 6379
+2021-11-29 21:53:23 INFO  - Transaction is done! From:908106 To:26194 Amount: 4167
+2021-11-29 21:53:23 INFO  - Transaction is done! From:103558 To:702224 Amount: 5693
+2021-11-29 21:53:24 INFO  - Transaction is done! From:26194 To:911097 Amount: 2246
+2021-11-29 21:53:24 INFO  - Transaction is done! From:103558 To:702224 Amount: 2060
+2021-11-29 21:53:24 WARN  - Not enough money on 796403 From:796403 To:131087 Amount: 9660
+2021-11-29 21:53:25 INFO  - Transaction is done! From:911097 To:237007 Amount: 2204
+2021-11-29 21:53:26 INFO  - Transaction is done! From:811024 To:760588 Amount: 6804
+2021-11-29 21:53:26 INFO  - Transaction is done! From:56260 To:103558 Amount: 3599
+2021-11-29 21:53:26 INFO  - Transaction is done! From:131087 To:237007 Amount: 6879
+2021-11-29 21:53:26 WARN  - Not enough money on 811024 From:811024 To:702224 Amount: 4321
+2021-11-29 21:53:27 INFO  - Transaction is done! From:760588 To:224887 Amount: 3363
+2021-11-29 21:53:27 INFO  - Transaction is done! From:294118 To:760588 Amount: 1894
+2021-11-29 21:53:27 INFO  - Transaction is done! From:103558 To:294118 Amount: 5376
+2021-11-29 21:53:28 INFO  - Transaction is done! From:908106 To:760588 Amount: 4753
+2021-11-29 21:53:28 WARN  - Not enough money on 103558 From:103558 To:26194 Amount: 2685
+2021-11-29 21:53:29 INFO  - Transaction is done! From:26194 To:131087 Amount: 9698
+2021-11-29 21:53:29 INFO  - Transaction is done! From:811024 To:26194 Amount: 1668
+2021-11-29 21:53:29 WARN  - Not enough money on 469829 From:469829 To:911097 Amount: 7774
+2021-11-29 21:53:29 WARN  - Not enough money on 811024 From:811024 To:911097 Amount: 7158
+2021-11-29 21:53:30 WARN  - Not enough money on 908106 From:908106 To:890070 Amount: 8500
+2021-11-29 21:53:30 INFO  - Transaction is done! From:702224 To:56260 Amount: 4462
+2021-11-29 21:53:31 INFO  - Transaction is done! From:294118 To:103558 Amount: 8108
+2021-11-29 21:53:31 INFO  - Transaction is done! From:131087 To:103558 Amount: 9410
+2021-11-29 21:53:31 INFO  - Transaction is done! From:796403 To:131087 Amount: 3526
+2021-11-29 21:53:33 INFO  - 30 transactions have been done!
+2021-11-29 22:08:46 INFO  - New part of transactions
+2021-11-29 22:08:46 INFO  - Transaction is done! From:461964 To:781741 Amount: 4067
+2021-11-29 22:08:46 INFO  - Transaction is done! From:967680 To:56445 Amount: 845
+2021-11-29 22:08:46 INFO  - Transaction is done! From:781741 To:911994 Amount: 965
+2021-11-29 22:08:46 INFO  - Transaction is done! From:95871 To:164446 Amount: 8432
+2021-11-29 22:08:47 INFO  - Transaction is done! From:959929 To:394661 Amount: 6800
+2021-11-29 22:08:47 INFO  - Transaction is done! From:959929 To:461964 Amount: 1898
+2021-11-29 22:08:47 INFO  - Transaction is done! From:56445 To:959929 Amount: 638
+2021-11-29 22:08:48 INFO  - Transaction is done! From:781741 To:56445 Amount: 7111
+2021-11-29 22:08:49 INFO  - Transaction is done! From:579515 To:164446 Amount: 2621
+2021-11-29 22:08:49 INFO  - Transaction is done! From:394661 To:906742 Amount: 4276
+2021-11-29 22:08:49 INFO  - Transaction is done! From:911994 To:967680 Amount: 7559
+2021-11-29 22:08:49 INFO  - Transaction is done! From:394661 To:143587 Amount: 9297
+2021-11-29 22:08:50 INFO  - Transaction is done! From:251341 To:579515 Amount: 5402
+2021-11-29 22:08:50 WARN  - Not enough money on 251341 From:251341 To:143587 Amount: 4956
+2021-11-29 22:08:51 INFO  - Transaction is done! From:505792 To:164446 Amount: 5214
+2021-11-29 22:08:51 INFO  - Transaction is done! From:143587 To:461964 Amount: 1840
+2021-11-29 22:08:52 INFO  - Transaction is done! From:394661 To:906742 Amount: 2052
+2021-11-29 22:08:52 INFO  - Transaction is done! From:967680 To:579515 Amount: 8423
+2021-11-29 22:08:52 INFO  - Transaction is done! From:143587 To:579515 Amount: 8511
+2021-11-29 22:08:52 INFO  - Transaction is done! From:470915 To:251341 Amount: 5282
+2021-11-29 22:08:53 WARN  - Not enough money on 959929 From:959929 To:505792 Amount: 7378
+2021-11-29 22:08:54 WARN  - Self-transaction append From:781741 To:781741 Amount: 3729
+2021-11-29 22:08:54 INFO  - Transaction is done! From:56445 To:781741 Amount: 669
+2021-11-29 22:08:54 INFO  - Transaction is done! From:579515 To:959929 Amount: 4088
+2021-11-29 22:08:55 WARN  - Self-transaction append From:505792 To:505792 Amount: 656
+2021-11-29 22:08:55 WARN  - Not enough money on 911994 From:911994 To:906742 Amount: 7055
+2021-11-29 22:08:55 WARN  - Self-transaction append From:959929 To:959929 Amount: 6647
+2021-11-29 22:08:56 INFO  - Transaction is done! From:143587 To:579515 Amount: 5950
+2021-11-29 22:08:56 WARN  - Not enough money on 781741 From:781741 To:967680 Amount: 7597
+2021-11-29 22:08:56 WARN  - Not enough money on 959929 From:959929 To:164446 Amount: 8983
+2021-11-29 22:08:58 INFO  - 30 transactions have been done!
+2021-11-30 00:40:57 INFO  - New part of transactions
+2021-11-30 00:40:57 INFO  - Transaction is done! From:317567 To:539216 Amount: 9448
+2021-11-30 00:40:57 INFO  - Transaction is done! From:113721 To:638812 Amount: 9465
+2021-11-30 00:40:57 INFO  - Transaction is done! From:545277 To:927829 Amount: 2612
+2021-11-30 00:40:57 INFO  - Transaction is done! From:942828 To:418200 Amount: 5389
+2021-11-30 00:40:58 INFO  - Transaction is done! From:144886 To:418200 Amount: 5612
+2021-11-30 00:40:58 INFO  - Transaction is done! From:545277 To:256538 Amount: 4380
+2021-11-30 00:40:59 WARN  - Self-transaction append From:144886 To:144886 Amount: 5115
+2021-11-30 00:40:59 INFO  - Transaction is done! From:39928 To:927829 Amount: 7617
+2021-11-30 00:40:59 INFO  - Transaction is done! From:759669 To:418200 Amount: 1152
+2021-11-30 00:41:00 WARN  - Not enough money on 545277 From:545277 To:759669 Amount: 9049
+2021-11-30 00:41:00 WARN  - Self-transaction append From:113721 To:113721 Amount: 1912
+2021-11-30 00:41:00 INFO  - Transaction is done! From:673040 To:759669 Amount: 5710
+2021-11-30 00:41:01 WARN  - Not enough money on 942828 From:942828 To:418200 Amount: 8117
+2021-11-30 00:41:02 WARN  - Not enough money on 39928 From:39928 To:942828 Amount: 4994
+2021-11-30 00:41:02 INFO  - Transaction is done! From:256538 To:673040 Amount: 6573
+2021-11-30 00:41:02 WARN  - Not enough money on 113721 From:113721 To:379199 Amount: 2740
+2021-11-30 00:41:03 WARN  - Not enough money on 317567 From:317567 To:379199 Amount: 9335
+2021-11-30 00:41:03 WARN  - Not enough money on 39928 From:39928 To:418200 Amount: 5855
+2021-11-30 00:41:03 INFO  - Transaction is done! From:317567 To:144886 Amount: 286
+2021-11-30 00:41:04 INFO  - Transaction is done! From:418200 To:673040 Amount: 974
+2021-11-30 00:41:05 INFO  - Transaction is done! From:927829 To:539216 Amount: 1602
+2021-11-30 00:41:05 INFO  - Transaction is done! From:759669 To:144886 Amount: 1251
+2021-11-30 00:41:05 INFO  - Transaction is done! From:418200 To:539216 Amount: 3843
+2021-11-30 00:41:05 INFO  - Transaction is done! From:759669 To:256538 Amount: 1650
+2021-11-30 00:41:06 WARN  - Not enough money on 144886 From:144886 To:927829 Amount: 7282
+2021-11-30 00:41:06 INFO  - Transaction is done! From:379199 To:418200 Amount: 3924
+2021-11-30 00:41:07 INFO  - Transaction is done! From:638812 To:418200 Amount: 1877
+2021-11-30 00:41:07 INFO  - Transaction is done! From:144886 To:545277 Amount: 1480
+2021-11-30 00:41:07 INFO  - Transaction is done! From:379199 To:144886 Amount: 5947
+2021-11-30 00:41:08 INFO  - Transaction is done! From:39928 To:317567 Amount: 1952
+2021-11-30 00:41:09 INFO  - 30 transactions have been done!
+2021-11-30 00:42:44 INFO  - New part of transactions
+2021-11-30 00:42:44 INFO  - Transaction is done! From:543641 To:602292 Amount: 7389
+2021-11-30 00:42:44 INFO  - Transaction is done! From:831417 To:151877 Amount: 5863
+2021-11-30 00:42:44 INFO  - Transaction is done! From:95571 To:738631 Amount: 2323
+2021-11-30 00:42:44 INFO  - Transaction is done! From:552434 To:473127 Amount: 4414
+2021-11-30 00:42:46 INFO  - Transaction is done! From:738631 To:132195 Amount: 5983
+2021-11-30 00:42:46 INFO  - Transaction is done! From:346166 To:738631 Amount: 4211
+2021-11-30 00:42:46 INFO  - Transaction is done! From:477024 To:839476 Amount: 5105
+2021-11-30 00:42:46 INFO  - Transaction is done! From:132195 To:839476 Amount: 2266
+2021-11-30 00:42:47 INFO  - Transaction is done! From:831417 To:894502 Amount: 2507
+2021-11-30 00:42:47 INFO  - Transaction is done! From:831417 To:605529 Amount: 1307
+2021-11-30 00:42:47 WARN  - Not enough money on 831417 From:831417 To:894502 Amount: 3468
+2021-11-30 00:42:48 INFO  - Transaction is done! From:450467 To:543641 Amount: 4886
+2021-11-30 00:42:49 INFO  - Transaction is done! From:839476 To:132195 Amount: 1716
+2021-11-30 00:42:49 INFO  - Transaction is done! From:839476 To:605529 Amount: 6225
+2021-11-30 00:42:49 INFO  - Transaction is done! From:605529 To:346166 Amount: 8323
+2021-11-30 00:42:50 INFO  - Transaction is done! From:839476 To:95571 Amount: 5959
+2021-11-30 00:42:50 INFO  - Transaction is done! From:473127 To:805059 Amount: 976
+2021-11-30 00:42:50 INFO  - Transaction is done! From:605529 To:565456 Amount: 8757
+2021-11-30 00:42:51 INFO  - Transaction is done! From:602292 To:565456 Amount: 7442
+2021-11-30 00:42:51 INFO  - Transaction is done! From:151877 To:552434 Amount: 6227
+2021-11-30 00:42:52 INFO  - Transaction is done! From:132195 To:95571 Amount: 6441
+2021-11-30 00:42:52 INFO  - Transaction is done! From:509281 To:132195 Amount: 5745
+2021-11-30 00:42:52 INFO  - Transaction is done! From:95571 To:543641 Amount: 306
+2021-11-30 00:42:53 INFO  - Transaction is done! From:151877 To:894502 Amount: 1661
+2021-11-30 00:42:53 INFO  - Transaction is done! From:543641 To:565456 Amount: 765
+2021-11-30 00:42:53 INFO  - Transaction is done! From:738631 To:831417 Amount: 3275
+2021-11-30 00:42:54 INFO  - Transaction is done! From:805059 To:509281 Amount: 4407
+2021-11-30 00:42:54 INFO  - Transaction is done! From:473127 To:605529 Amount: 934
+2021-11-30 00:42:55 INFO  - Transaction is done! From:132195 To:839476 Amount: 1577
+2021-11-30 00:42:55 WARN  - Not enough money on 151877 From:151877 To:450467 Amount: 8861
+2021-11-30 00:42:56 INFO  - 30 transactions have been done!
